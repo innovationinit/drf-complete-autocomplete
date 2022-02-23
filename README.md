@@ -1,7 +1,7 @@
 # DRF complete autocomplete
 
-[![image](https://travis-ci.org/innovationinit/drf-complete-autocomplete.svg?branch=master)](https://travis-ci.org/innovationinit/drf-complete-autocomplete)
-[![image](https://coveralls.io/repos/github/innovationinit/drf-complete-autocomplete/badge.svg?branch=master&foolcache=1)](https://coveralls.io/github/innovationinit/drf-complete-autocomplete?branch=master)
+![Test package](https://github.com/innovationinit/drf-complete-autocomplete/actions/workflows/test-package.yml/badge.svg?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/innovationinit/drf-complete-autocomplete/badge.svg)](https://coveralls.io/github/innovationinit/drf-complete-autocomplete)
 
 ## Installation
 ```
