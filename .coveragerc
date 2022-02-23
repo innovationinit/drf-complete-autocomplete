@@ -1,0 +1,11 @@
+[run]
+branch = True
+source = drf_complete_autocomplete
+
+[report]
+omit = */testsproject/*
+exclude_lines =
+    pragma: no cover
+
+[html]
+directory = coverage
